@@ -1,3 +1,7 @@
+T2_POO_2022.2
+Alunas: Carolina Severo de Souza e Maria Mell Oliveira Sudário.
+Este repositório contém uma 10 questões de JAVA. As pastas de cada questão possuem o código-fonte e o enunciado das questões estão na tabela abaixo: 
+## Questões
 
 | Question | Description |
 |---|---|

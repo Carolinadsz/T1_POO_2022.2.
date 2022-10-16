@@ -1,13 +1,13 @@
 
 | Question | Description |
 |---|---|
-|01| Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números |
-|02| Faça um programa que receba três notas , calcule e mostre a média aritmética entre elas. |
-|04| 4. Faça um programa que receba o salário de um funcionário , calcule e mostre o novo salário , sabendo - se que este sofreu um aumento de 25 %. |
-|10| Faça um programa que calcule e mostre a área de um círculo . Sabe - se que : Área = π R². |
-|11|  Faça um programa que receba um número positivo e maior que zero. |
-|19| Cada degrau de uma escada tem X de altura . Faça um programa que receba essa altura e a altura que o usuário deseja alcançar subindo a escada . Calcule e mostre quantos degraus o usuário deverá subir para atingir seu objetivo , sem se preocupar com a altura do usuário . alcançar .. |
-|21| Faça um programa para calcular e mostrar a que distância deve estar uma escada da parede . O usuário deve fornecer o tamanho da escada e a altura em que deseja pregar o quadro . Lembre - se de que o tamanho da escada deve ser maior que a altura que se deseja. |
-|22| Sabe - se que o quilowatt de energia custa um quinto do salário mínimo . Faça um pro grama que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência . |
-|24| Faça um programa que receba uma hora formada por hora e minutos ( um número real ) , calcule e mostre a hora digitada apenas em minutos . Lembre - se de que : para quatro e meia deve - se digitar 4.30 : os minutos vão de 0 a 60 . |
-|25| Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo . Esse programa deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado |
+|01| Faça um programa que receba um número inteiro e verifique se é par ou impar. |
+|02| Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados neces sários para executar cada operação. |
+|03| Faça um programa para resolver equações do 2º grau. |
+|04| Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA mês por extenso e hora:minuto. |
+|05| Faça um programa que leia um número N que indica quantos valores inteiros e positivos devem ser lidos a seguir. Para cada número lido, mostre uma tabela contendo o valor lido e o fatorial desse valor. |
+|06| Faça um programa que receba um número inteiro maior que 1, verifique se o número fornecido é pri mo ou não e mostre uma mensagem de número primo ou de número não primo. Um número é primo quando é divisível apenas por 1 e por ele mesmo. |
+|07| Em um campeonato de futebol existem cinco times e cada um possui onze jogadores. Faça um progra ma que receba a idade, o peso e a altura de cada um dos jogadores, calcule e mostre: Faça um programa que receba um número inteiro maior que 1, verifique se o número fornecido é pri mo ou não e mostre uma mensagem de número primo ou de número não primo. |
+|08| Faça um programa que apresente o menu de opções a seguir, permita ao usuário escolher a ops desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a p sibilidade de opção inválida e não se preocupe com restrições do tipo salário inválido . |
+|09| Faça um programa que apresente o menu de opções a seguir: permita ao usuário escolher a ops desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a p sibilidade de opção inválida e não se preocupe com restrições do tipo salário inválido. |
+|10| Faça um programa que mostre as tabuadas dos números de 1 a 10. |
